@@ -1,0 +1,9 @@
+.card-list {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  width: auto;
+}
+/*# sourceMappingURL=card-list.styles.css.map */

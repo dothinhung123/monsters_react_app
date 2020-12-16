@@ -1,0 +1,10 @@
+.search-bar {
+  margin: 200px auto;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+/*# sourceMappingURL=search-bar.styles.css.map */
